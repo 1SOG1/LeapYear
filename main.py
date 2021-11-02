@@ -1,4 +1,4 @@
-from leap_year_check_function import leap_year_check
+from leap_year_check import leap_year_check
 
 print("==== Leap Year Checker 3000 ====\n\n")
 
