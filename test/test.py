@@ -28,6 +28,7 @@ def test_divide_by_100_but_not_400():
     assert not leap_year_check(1900)
     assert not leap_year_check(2100)
 
+
 def test_not_divisible_by_4():
     assert not leap_year_check(5)
     assert not leap_year_check(17)
