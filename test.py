@@ -33,6 +33,3 @@ def test_not_divisible_by_4():
     assert not leap_year_check(17)
     assert not leap_year_check(290)
     assert not leap_year_check(2713)
-
-
-
