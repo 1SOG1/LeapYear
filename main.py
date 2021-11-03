@@ -1,8 +1,19 @@
-from leap_year_check import leap_year_check
+# from leap_year_check import leap_year_check
 
 print("==== Leap Year Checker 3000 ====\n\n")
 
 print("What year would you like to check? ")
+
+
+def leap_year_check(year):
+    if year % 4 == 0:
+        if year % 100 != 0 or year % 400 == 0:
+
+            return True
+        else:
+            return False
+    else:
+        return False
 
 
 year_to_check = int(input(" "))
