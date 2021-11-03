@@ -1,4 +1,5 @@
-from leap_year_check import leap_year_check
+from leap_year_check import *
+# from leap_year_check import leap_year_check
 
 
 # Leap Year if:
