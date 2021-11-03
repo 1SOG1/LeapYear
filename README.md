@@ -1,8 +1,9 @@
 #Read me 
 
 1. [ISSUES]
-2. [Challenges]
-3. [Solutions]
+2. [FIXES]
+3. [CHALLENGES]
+4. [SOLUTIONS]
 
 
 ### Issues
