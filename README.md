@@ -1,8 +1,17 @@
 #Read me 
 
-1. [Challenges]
-2. [Solutions]
+1. [ISSUES]
+2. [Challenges]
+3. [Solutions]
 
+
+### Issues
+- 1. Pytest ERROR 5 - no tests found 
+- 2. Pytest ERROR 2 - pytest interrupted by user
+
+### Fixes
+- 1. Moved test.py out of the venv. folder and into its own folder in the project root directory
+- 2. Moved test.py into root of the project directory 
 
 ### Challenges 
 Setting up GitHub actions was fairly simple. The challenge was to get pytest to run the test I had written. 
