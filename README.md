@@ -12,6 +12,7 @@ had placed tests.py in the wrong folder. Further more i also realised that pytes
 where the project folder contained main.py, leap_year_check.py and a folder ("test"), which contained the tests. 
 This threw ERROR 2. Since I now knew where I could find documentation on the meaning behind the error codes, this was a quick fix. 
 
+
 ### Solutions
 After the initial struggles the actual fixes where easy enough. I first refactored test.py into its own folder ("test"), 
 this was done as this is supposed to be the correct way to structure your tests. Since pytest was not able to find
