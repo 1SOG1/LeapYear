@@ -17,4 +17,4 @@ This threw ERROR 2. Since I now knew where I could find documentation on the mea
 After the initial struggles the actual fixes where easy enough. I first refactored test.py into its own folder ("test"), 
 this was done as this is supposed to be the correct way to structure your tests. Since pytest was not able to find
 the tests I had written when it was in its own folder I refactored it back into the root folder. This worked pytest now runs everytime
-I push a new commit to GitHub and returns green check marks across the board (until I mess up the code again). 
+I push a new commit to GitHub and returns green check marks across the board (until I mess up the code again).
